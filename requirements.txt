@@ -1,0 +1,9 @@
+pymongo
+pandas
+numpy
+scikit-learn
+torch
+transformers
+peft
+fastapi 
+uvicorn

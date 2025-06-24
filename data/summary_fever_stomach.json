@@ -1,0 +1,88 @@
+{
+  "utterances": {
+    "U1": "Doctor: Hello, Mr. McKay.",
+    "U2": "Doctor: What brings you here today?",
+    "U3": "Patient: I have a fever and a sore stomach. Okay, Tony.",
+    "U4": "Doctor: I see your temperature is 104 degrees. That's very high.",
+    "U5": "Patient: Yes, I feel very dizzy and nauseous. Did you get sick?",
+    "U6": "Patient: Yes, I vomited twice this morning. Did you have any diarrhea? Yes,",
+    "U7": "Doctor: a little bit. Did you take any medicine to treat your symptoms? No, doctor.",
+    "U8": "Patient: I didn't take anything. Okay,",
+    "U9": "Doctor: sounds like you may have some food poisoning. Oh, no.",
+    "U10": "Doctor: Take this medicine now and again every six hours until it's finished. You'll be okay. You'll be okay in about 24 hours. That's",
+    "U11": "Patient: a relief. Thank you very much, doctor. Thank you, doctor."
+  },
+  "S": [
+    {
+      "sentence_idx": "0",
+      "sentence_text": "Patient, Tony McKay, presents with a fever and sore stomach.",
+      "utterance_id": "U3"
+    },
+    {
+      "sentence_idx": "1",
+      "sentence_text": "He reports feeling dizzy and nauseous.",
+      "utterance_id": "U5"
+    },
+    {
+      "sentence_idx": "2",
+      "sentence_text": "He has vomited twice this morning.",
+      "utterance_id": "U6"
+    },
+    {
+      "sentence_idx": "3",
+      "sentence_text": "He denies taking any medicine to treat symptoms.",
+      "utterance_id": "U8"
+    }
+  ],
+  "O": [
+    {
+      "sentence_idx": "0",
+      "sentence_text": "Physical examination reveals a temperature of 104 degrees.",
+      "utterance_id": "U4"
+    },
+    {
+      "sentence_idx": "1",
+      "sentence_text": "He has a history of vomiting and diarrhea.",
+      "utterance_id": "U6"
+    },
+    {
+      "sentence_idx": "2",
+      "sentence_text": "He denies any food poisoning.",
+      "utterance_id": "U9"
+    },
+    {
+      "sentence_idx": "3",
+      "sentence_text": "No medication was taken.",
+      "utterance_id": "U8"
+    }
+  ],
+  "A": [
+    {
+      "sentence_idx": "0",
+      "sentence_text": "Primary diagnosis is a high temperature and fever, secondary to food poisoning.",
+      "utterance_id": "U4"
+    },
+    {
+      "sentence_idx": "1",
+      "sentence_text": "Differential diagnoses could include other causes of symptoms, but these are not considered at this time.",
+      "utterance_id": "U9"
+    }
+  ],
+  "P": [
+    {
+      "sentence_idx": "0",
+      "sentence_text": "The patient is advised to take a six-hour course of anti-diarrheal medication every six hours until it is finished.",
+      "utterance_id": "U10"
+    },
+    {
+      "sentence_idx": "1",
+      "sentence_text": "He will be treated with a 24-hour course of anti-diarrheal medication.",
+      "utterance_id": "U10"
+    },
+    {
+      "sentence_idx": "2",
+      "sentence_text": "The patient is advised to report any new symptoms within 24 hours.",
+      "utterance_id": "U10"
+    }
+  ]
+}

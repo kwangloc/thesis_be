@@ -1,0 +1,79 @@
+[
+    {
+        "speaker": "Doctor",
+        "start": 4.76,
+        "end": 6.42,
+        "text": "Hello, Mr. McKay.",
+        "utterance_id": "U1"
+    },
+    {
+        "speaker": "Doctor",
+        "start": 7.28,
+        "end": 9.0,
+        "text": "What brings you here today?",
+        "utterance_id": "U2"
+    },
+    {
+        "speaker": "Patient",
+        "start": 9.74,
+        "end": 14.16,
+        "text": "I have a fever and a sore stomach. Okay, Tony.",
+        "utterance_id": "U3"
+    },
+    {
+        "speaker": "Doctor",
+        "start": 15.28,
+        "end": 21.3,
+        "text": "I see your temperature is 104 degrees. That's very high.",
+        "utterance_id": "U4"
+    },
+    {
+        "speaker": "Patient",
+        "start": 22.24,
+        "end": 27.2,
+        "text": "Yes, I feel very dizzy and nauseous. Did you get sick?",
+        "utterance_id": "U5"
+    },
+    {
+        "speaker": "Patient",
+        "start": 28.34,
+        "end": 35.0,
+        "text": "Yes, I vomited twice this morning. Did you have any diarrhea? Yes,",
+        "utterance_id": "U6"
+    },
+    {
+        "speaker": "Doctor",
+        "start": 35.22,
+        "end": 41.36,
+        "text": "a little bit. Did you take any medicine to treat your symptoms? No, doctor.",
+        "utterance_id": "U7"
+    },
+    {
+        "speaker": "Patient",
+        "start": 41.56,
+        "end": 44.02,
+        "text": "I didn't take anything. Okay,",
+        "utterance_id": "U8"
+    },
+    {
+        "speaker": "Doctor",
+        "start": 44.22,
+        "end": 48.9,
+        "text": "sounds like you may have some food poisoning. Oh, no.",
+        "utterance_id": "U9"
+    },
+    {
+        "speaker": "Doctor",
+        "start": 49.84,
+        "end": 59.8,
+        "text": "Take this medicine now and again every six hours until it's finished. You'll be okay. You'll be okay in about 24 hours. That's",
+        "utterance_id": "U10"
+    },
+    {
+        "speaker": "Patient",
+        "start": 59.8,
+        "end": 62.36,
+        "text": "a relief. Thank you very much, doctor. Thank you, doctor.",
+        "utterance_id": "U11"
+    }
+]

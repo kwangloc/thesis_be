@@ -1,0 +1,567 @@
+[
+    {
+        "word": "Hello,",
+        "start": 4.76,
+        "end": 5.44
+    },
+    {
+        "word": "Mr.",
+        "start": 5.62,
+        "end": 5.86
+    },
+    {
+        "word": "McKay.",
+        "start": 6.08,
+        "end": 6.42
+    },
+    {
+        "word": "What",
+        "start": 7.28,
+        "end": 7.96
+    },
+    {
+        "word": "brings",
+        "start": 7.96,
+        "end": 8.2
+    },
+    {
+        "word": "you",
+        "start": 8.2,
+        "end": 8.48
+    },
+    {
+        "word": "here",
+        "start": 8.48,
+        "end": 8.72
+    },
+    {
+        "word": "today?",
+        "start": 8.72,
+        "end": 9.0
+    },
+    {
+        "word": "I",
+        "start": 9.74,
+        "end": 10.42
+    },
+    {
+        "word": "have",
+        "start": 10.42,
+        "end": 10.7
+    },
+    {
+        "word": "a",
+        "start": 10.7,
+        "end": 10.84
+    },
+    {
+        "word": "fever",
+        "start": 10.84,
+        "end": 11.32
+    },
+    {
+        "word": "and",
+        "start": 11.32,
+        "end": 11.68
+    },
+    {
+        "word": "a",
+        "start": 11.68,
+        "end": 11.9
+    },
+    {
+        "word": "sore",
+        "start": 11.9,
+        "end": 12.26
+    },
+    {
+        "word": "stomach.",
+        "start": 12.26,
+        "end": 12.76
+    },
+    {
+        "word": "Okay,",
+        "start": 13.22,
+        "end": 13.76
+    },
+    {
+        "word": "Tony.",
+        "start": 13.88,
+        "end": 14.16
+    },
+    {
+        "word": "I",
+        "start": 15.28,
+        "end": 15.96
+    },
+    {
+        "word": "see",
+        "start": 15.96,
+        "end": 16.28
+    },
+    {
+        "word": "your",
+        "start": 16.28,
+        "end": 16.52
+    },
+    {
+        "word": "temperature",
+        "start": 16.52,
+        "end": 17.0
+    },
+    {
+        "word": "is",
+        "start": 17.0,
+        "end": 17.5
+    },
+    {
+        "word": "104",
+        "start": 17.5,
+        "end": 18.02
+    },
+    {
+        "word": "degrees.",
+        "start": 18.02,
+        "end": 19.0
+    },
+    {
+        "word": "That's",
+        "start": 19.74,
+        "end": 20.42
+    },
+    {
+        "word": "very",
+        "start": 20.42,
+        "end": 20.72
+    },
+    {
+        "word": "high.",
+        "start": 20.72,
+        "end": 21.3
+    },
+    {
+        "word": "Yes,",
+        "start": 22.24,
+        "end": 22.92
+    },
+    {
+        "word": "I",
+        "start": 23.04,
+        "end": 23.36
+    },
+    {
+        "word": "feel",
+        "start": 23.36,
+        "end": 23.62
+    },
+    {
+        "word": "very",
+        "start": 23.62,
+        "end": 23.94
+    },
+    {
+        "word": "dizzy",
+        "start": 23.94,
+        "end": 24.5
+    },
+    {
+        "word": "and",
+        "start": 24.5,
+        "end": 24.78
+    },
+    {
+        "word": "nauseous.",
+        "start": 24.78,
+        "end": 25.5
+    },
+    {
+        "word": "Did",
+        "start": 25.8,
+        "end": 26.46
+    },
+    {
+        "word": "you",
+        "start": 26.46,
+        "end": 26.6
+    },
+    {
+        "word": "get",
+        "start": 26.6,
+        "end": 26.84
+    },
+    {
+        "word": "sick?",
+        "start": 26.84,
+        "end": 27.2
+    },
+    {
+        "word": "Yes,",
+        "start": 28.34,
+        "end": 29.12
+    },
+    {
+        "word": "I",
+        "start": 29.38,
+        "end": 29.56
+    },
+    {
+        "word": "vomited",
+        "start": 29.56,
+        "end": 30.22
+    },
+    {
+        "word": "twice",
+        "start": 30.22,
+        "end": 30.58
+    },
+    {
+        "word": "this",
+        "start": 30.58,
+        "end": 31.02
+    },
+    {
+        "word": "morning.",
+        "start": 31.02,
+        "end": 31.38
+    },
+    {
+        "word": "Did",
+        "start": 31.78,
+        "end": 32.18
+    },
+    {
+        "word": "you",
+        "start": 32.18,
+        "end": 32.38
+    },
+    {
+        "word": "have",
+        "start": 32.38,
+        "end": 32.64
+    },
+    {
+        "word": "any",
+        "start": 32.64,
+        "end": 32.98
+    },
+    {
+        "word": "diarrhea?",
+        "start": 32.98,
+        "end": 33.44
+    },
+    {
+        "word": "Yes,",
+        "start": 34.3,
+        "end": 35.0
+    },
+    {
+        "word": "a",
+        "start": 35.22,
+        "end": 35.58
+    },
+    {
+        "word": "little",
+        "start": 35.58,
+        "end": 36.08
+    },
+    {
+        "word": "bit.",
+        "start": 36.08,
+        "end": 36.36
+    },
+    {
+        "word": "Did",
+        "start": 36.72,
+        "end": 37.14
+    },
+    {
+        "word": "you",
+        "start": 37.14,
+        "end": 37.32
+    },
+    {
+        "word": "take",
+        "start": 37.32,
+        "end": 37.56
+    },
+    {
+        "word": "any",
+        "start": 37.56,
+        "end": 37.9
+    },
+    {
+        "word": "medicine",
+        "start": 37.9,
+        "end": 38.3
+    },
+    {
+        "word": "to",
+        "start": 38.3,
+        "end": 38.68
+    },
+    {
+        "word": "treat",
+        "start": 38.68,
+        "end": 39.02
+    },
+    {
+        "word": "your",
+        "start": 39.02,
+        "end": 39.26
+    },
+    {
+        "word": "symptoms?",
+        "start": 39.26,
+        "end": 39.76
+    },
+    {
+        "word": "No,",
+        "start": 40.42,
+        "end": 41.02
+    },
+    {
+        "word": "doctor.",
+        "start": 41.02,
+        "end": 41.36
+    },
+    {
+        "word": "I",
+        "start": 41.56,
+        "end": 42.02
+    },
+    {
+        "word": "didn't",
+        "start": 42.02,
+        "end": 42.3
+    },
+    {
+        "word": "take",
+        "start": 42.3,
+        "end": 42.52
+    },
+    {
+        "word": "anything.",
+        "start": 42.52,
+        "end": 42.86
+    },
+    {
+        "word": "Okay,",
+        "start": 43.4,
+        "end": 44.02
+    },
+    {
+        "word": "sounds",
+        "start": 44.22,
+        "end": 44.92
+    },
+    {
+        "word": "like",
+        "start": 44.92,
+        "end": 45.24
+    },
+    {
+        "word": "you",
+        "start": 45.24,
+        "end": 45.42
+    },
+    {
+        "word": "may",
+        "start": 45.42,
+        "end": 45.64
+    },
+    {
+        "word": "have",
+        "start": 45.64,
+        "end": 45.92
+    },
+    {
+        "word": "some",
+        "start": 45.92,
+        "end": 46.24
+    },
+    {
+        "word": "food",
+        "start": 46.24,
+        "end": 46.7
+    },
+    {
+        "word": "poisoning.",
+        "start": 46.7,
+        "end": 47.22
+    },
+    {
+        "word": "Oh,",
+        "start": 47.9,
+        "end": 48.36
+    },
+    {
+        "word": "no.",
+        "start": 48.36,
+        "end": 48.9
+    },
+    {
+        "word": "Take",
+        "start": 49.84,
+        "end": 50.62
+    },
+    {
+        "word": "this",
+        "start": 50.62,
+        "end": 50.9
+    },
+    {
+        "word": "medicine",
+        "start": 50.9,
+        "end": 51.36
+    },
+    {
+        "word": "now",
+        "start": 51.36,
+        "end": 51.72
+    },
+    {
+        "word": "and",
+        "start": 51.72,
+        "end": 52.22
+    },
+    {
+        "word": "again",
+        "start": 52.22,
+        "end": 52.54
+    },
+    {
+        "word": "every",
+        "start": 52.54,
+        "end": 53.04
+    },
+    {
+        "word": "six",
+        "start": 53.04,
+        "end": 53.48
+    },
+    {
+        "word": "hours",
+        "start": 53.48,
+        "end": 53.92
+    },
+    {
+        "word": "until",
+        "start": 53.92,
+        "end": 54.38
+    },
+    {
+        "word": "it's",
+        "start": 54.38,
+        "end": 54.92
+    },
+    {
+        "word": "finished.",
+        "start": 54.92,
+        "end": 55.24
+    },
+    {
+        "word": "You'll",
+        "start": 55.5,
+        "end": 56.04
+    },
+    {
+        "word": "be",
+        "start": 56.04,
+        "end": 56.22
+    },
+    {
+        "word": "okay.",
+        "start": 56.22,
+        "end": 56.66
+    },
+    {
+        "word": "You'll",
+        "start": 56.66,
+        "end": 56.9
+    },
+    {
+        "word": "be",
+        "start": 56.9,
+        "end": 56.9
+    },
+    {
+        "word": "okay",
+        "start": 56.9,
+        "end": 56.9
+    },
+    {
+        "word": "in",
+        "start": 56.9,
+        "end": 57.06
+    },
+    {
+        "word": "about",
+        "start": 57.06,
+        "end": 57.4
+    },
+    {
+        "word": "24",
+        "start": 57.4,
+        "end": 58.06
+    },
+    {
+        "word": "hours.",
+        "start": 58.06,
+        "end": 58.6
+    },
+    {
+        "word": "That's",
+        "start": 59.2,
+        "end": 59.8
+    },
+    {
+        "word": "a",
+        "start": 59.8,
+        "end": 59.8
+    },
+    {
+        "word": "relief.",
+        "start": 59.8,
+        "end": 60.12
+    },
+    {
+        "word": "Thank",
+        "start": 60.52,
+        "end": 61.12
+    },
+    {
+        "word": "you",
+        "start": 61.12,
+        "end": 61.32
+    },
+    {
+        "word": "very",
+        "start": 61.32,
+        "end": 61.5
+    },
+    {
+        "word": "much,",
+        "start": 61.5,
+        "end": 61.86
+    },
+    {
+        "word": "doctor.",
+        "start": 61.92,
+        "end": 62.16
+    },
+    {
+        "word": "Thank",
+        "start": 62.16,
+        "end": 62.36
+    },
+    {
+        "word": "you,",
+        "start": 62.36,
+        "end": 62.36
+    },
+    {
+        "word": "doctor.",
+        "start": 62.36,
+        "end": 62.36
+    }
+]
