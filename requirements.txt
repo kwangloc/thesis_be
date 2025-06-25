@@ -7,3 +7,5 @@ transformers
 peft
 fastapi 
 uvicorn
+pyngrok
+python-multipart
